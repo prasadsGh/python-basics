@@ -13,6 +13,11 @@ elif 8==9:
     print("8 is equal to 9")
 else :
     print("8 is smaller than 10")
+
     
+    # this thing is also possible in term like--> if z>x<y :
+#and also you can do or, and , xor conditions in the if and elif
+#if x<y or x<z like this we can use the conditional statements with if conditoins 
+
     
     
