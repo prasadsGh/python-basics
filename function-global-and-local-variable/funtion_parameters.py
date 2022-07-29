@@ -24,3 +24,15 @@ print("division of number")
 print(division(a,b))
 print("subtraction of a number ")
 print(sub(a,b))
+#if you are messing with the order of parameters--> assign values in the function calling itself for example
+'''
+def website(font, color , background color):
+    
+#calling function 
+website(b=9000, a=12323122)
+
+
+
+
+
+''' 
