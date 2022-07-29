@@ -10,3 +10,7 @@ fun()
 
 #cannot do this 
 #print(z) out of the function fun()
+def example():
+    global x;
+    x+=1
+    print(x)
