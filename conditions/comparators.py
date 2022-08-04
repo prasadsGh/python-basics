@@ -19,5 +19,7 @@ else :
 #and also you can do or, and , xor conditions in the if and elif
 #if x<y or x<z like this we can use the conditional statements with if conditoins 
 
-    
-    
+print(3>2)
+print(3==2)
+print(4==4) 
+print(3!=2)

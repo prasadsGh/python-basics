@@ -9,3 +9,10 @@ print(1.0/3)
 print(1/3.0)
 # for power function 
 print(2**5)
+
+a=3
+b=4
+print("power function" ,a**b)
+print("floor values" ,a//b)
+print("modulo ", (a%b))
+print(b//a)
