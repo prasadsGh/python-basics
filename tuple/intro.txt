@@ -1,0 +1,10 @@
+tuples are immutable 
+means they are not modifiable 
+we can not insert, update and delete and modifying things 
+we use parenthesis for tuple --
+for eg 
+marks=()
+
+--> tuple can count frequncy of an iten 
+
+parenthesis are not compulsory for tuple but reccomnded for readaability of code 

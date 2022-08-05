@@ -1,2 +1,8 @@
 list is collection of data types 
 list in python uses square brackets to store the elements
+
+NOTE:--->
+break and continue in for and while loop in python has 
+same functionality in cpp and java 
+
+
