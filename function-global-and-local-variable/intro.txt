@@ -1,0 +1,4 @@
+there are 3 types of functions in python
+1.in-built functions
+2.module functions
+3.user defined functions 
